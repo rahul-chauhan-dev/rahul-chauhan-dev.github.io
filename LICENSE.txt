@@ -2,29 +2,26 @@ MIT License
 
 feel free to use this template for your portfolio!
 
----
+Deployment Instructions:
 
-## 🚀 **Deployment Instructions:**
-
-### **Step 1: Create GitHub Repository**
+Step 1: Create GitHub Repository
 1. Go to [GitHub](https://github.com)
-2. Click **"New repository"**
+2. Click "New repository"
 3. Name: `[yourusername].github.io`
-4. Set to **Public**
-5. Click **Create repository**
+4. Set to Public
+5. Click Create repository
 
-### **Step 2: Upload Files**
-```bash
-# Method 1: Direct upload (easiest)
+Step 2: Upload Files
+Method 1: Direct upload (easiest)
 1. Download all files above
 2. In GitHub repo, click "Add file" → "Upload files"
 3. Drag and drop all files
 4. Commit changes
 
-# Method 2: Using Git
+Method 2: Using Git
 git clone https://github.com/[yourusername]/[yourusername].github.io
 cd [yourusername].github.io
-# Copy all files here
+Copy all files here
 git add .
 git commit -m "Initial portfolio deployment"
 git push origin main
