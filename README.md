@@ -19,7 +19,7 @@ A responsive portfolio website for Rahul Kumar Chauhan, showcasing skills, proje
 - Google Fonts
 
 ## Live Demo
-[Add your GitHub Pages link here]
+https://rahul-chauhan-dev.github.io/
 
 ## Local Development
 1. Clone the repository:
