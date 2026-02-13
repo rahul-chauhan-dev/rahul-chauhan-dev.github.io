@@ -1,6 +1,6 @@
 # Portfolio Website
 
-A responsive portfolio website for Rahul Kumar Chauhan, showcasing skills, projects, and contact information.
+A responsive portfolio website, showcasing skills, projects, and contact information.
 
 ## Features
 - Responsive design (mobile, tablet, desktop)
